@@ -1,4 +1,5 @@
 # Hacker-Rank-
 Here my certificates and some completed tasks from HackerRank
 
-<img src="Certificates/python_basic certificate.pdf">
+### Basic Python knowledge:
+[](Certificates/python_basic%20certificate.pdf) - here
