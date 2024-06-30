@@ -6,3 +6,7 @@ Here my certificates and some completed tasks from HackerRank
 
 ### Basic Problem solving:
 [click](Certificates/problem_solving_basic%20certificate.pdf) - here
+
+
+## All completed tasks here:
+[Python](/Python)
